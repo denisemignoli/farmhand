@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.farmhand.AppTest" time="0.019" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.farmhand.AppTest" time="0.017" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="24"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
-    <property name="java.class.path" value="/Users/denisemignoli/Documents/Denise/estudos/db/farmhand/target/test-classes:/Users/denisemignoli/Documents/Denise/estudos/db/farmhand/target/classes:/Users/denisemignoli/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/denisemignoli/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
+    <property name="java.class.path" value="/Users/denisemignoli/Documents/Denise/estudos/db/farmhand/target/test-classes:/Users/denisemignoli/Documents/Denise/estudos/db/farmhand/target/classes:/Users/denisemignoli/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.10.1/junit-jupiter-api-5.10.1.jar:/Users/denisemignoli/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar:/Users/denisemignoli/.m2/repository/org/junit/platform/junit-platform-commons/1.10.1/junit-platform-commons-1.10.1.jar:/Users/denisemignoli/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/denisemignoli/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.10.1/junit-jupiter-engine-5.10.1.jar:/Users/denisemignoli/.m2/repository/org/junit/platform/junit-platform-engine/1.10.1/junit-platform-engine-1.10.1.jar:"/>
     <property name="java.vm.vendor" value="Homebrew"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.vendor.url" value="https://github.com/Homebrew/homebrew-core/issues"/>
@@ -12,10 +12,10 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="BR"/>
     <property name="sun.boot.library.path" value="/opt/homebrew/Cellar/openjdk/24.0.2/libexec/openjdk.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/denisemignoli/Documents/Denise/estudos/db/farmhand/target/surefire/surefirebooter9411073054462686211.jar /Users/denisemignoli/Documents/Denise/estudos/db/farmhand/target/surefire 2025-11-04T21-51-08_283-jvmRun1 surefire4742363136672226352tmp surefire_010337776793639508804tmp"/>
+    <property name="sun.java.command" value="/Users/denisemignoli/Documents/Denise/estudos/db/farmhand/target/surefire/surefirebooter10848649480150471074.jar /Users/denisemignoli/Documents/Denise/estudos/db/farmhand/target/surefire 2025-11-04T22-34-00_256-jvmRun1 surefire2346908084348187208tmp surefire_05330399010036604738tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="/Users/denisemignoli/Documents/Denise/estudos/db/farmhand/target/test-classes:/Users/denisemignoli/Documents/Denise/estudos/db/farmhand/target/classes:/Users/denisemignoli/.m2/repository/junit/junit/4.11/junit-4.11.jar:/Users/denisemignoli/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
+    <property name="surefire.test.class.path" value="/Users/denisemignoli/Documents/Denise/estudos/db/farmhand/target/test-classes:/Users/denisemignoli/Documents/Denise/estudos/db/farmhand/target/classes:/Users/denisemignoli/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.10.1/junit-jupiter-api-5.10.1.jar:/Users/denisemignoli/.m2/repository/org/opentest4j/opentest4j/1.3.0/opentest4j-1.3.0.jar:/Users/denisemignoli/.m2/repository/org/junit/platform/junit-platform-commons/1.10.1/junit-platform-commons-1.10.1.jar:/Users/denisemignoli/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/Users/denisemignoli/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.10.1/junit-jupiter-engine-5.10.1.jar:/Users/denisemignoli/.m2/repository/org/junit/platform/junit-platform-engine/1.10.1/junit-platform-engine-1.10.1.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="/Users/denisemignoli"/>
     <property name="user.language" value="pt"/>
@@ -29,7 +29,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="apple.awt.application.name" value="ForkedBooter"/>
-    <property name="surefire.real.class.path" value="/Users/denisemignoli/Documents/Denise/estudos/db/farmhand/target/surefire/surefirebooter9411073054462686211.jar"/>
+    <property name="surefire.real.class.path" value="/Users/denisemignoli/Documents/Denise/estudos/db/farmhand/target/surefire/surefirebooter10848649480150471074.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.runtime.version" value="24.0.2"/>
@@ -58,5 +58,5 @@
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="java.class.version" value="68.0"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="com.farmhand.AppTest" time="0.001"/>
+  <testcase name="shouldAnswerWithTrue" classname="com.farmhand.AppTest" time="0.009"/>
 </testsuite>
