@@ -10,7 +10,7 @@ public abstract class Animal {
     private final LocalDate birthDate;
     private double weight;
 
-    public Animal(String name, LocalDate birthDate, double weight){
+    public Animal(String name, LocalDate birthDate, double weight) {
         this.id = UUID.randomUUID().toString();
         this.name = name;
         this.birthDate = birthDate;
